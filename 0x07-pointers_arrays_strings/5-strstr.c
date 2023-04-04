@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-* _strstr - function locate
-* @haystack: pointer to char
-* @needle: pointer to char
+* _strstr - the function locate
+* @haystack: the pointer to char
+* @needle: the pointer to char
 * Return: 0
 */
 
