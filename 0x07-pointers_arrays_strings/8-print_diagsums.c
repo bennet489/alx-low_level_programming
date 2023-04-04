@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * print_diagsums -  prints sums
- * @a: a pointer
- * @size: size
+ * print_diagsums -  prints the sums
+ * @a: the pointer
+ * @size: the size
  */
 void print_diagsums(int *a, int size)
 {
