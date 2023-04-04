@@ -2,9 +2,9 @@
 
 /**
  * _memcpy - irontnoux2
- * @dest: pointer to char params
- * @src: pointer to char params
- * @n: size
+ * @dest: the pointer to char params
+ * @src: the pointer to char params
+ * @n: the size
  * Return: *dest
  */
 
