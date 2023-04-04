@@ -3,8 +3,8 @@
 
 /**
  * _strpbrk - bytes
- * @s: pointer to char
- * @accept: pointer to char
+ * @s: the pointer to char
+ * @accept: the pointer to char
  * Return: NULL
  */
 
