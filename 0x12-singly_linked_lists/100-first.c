@@ -1,9 +1,13 @@
 #include <stdio.h>
 
+void first(void) __attribute__ ((constructor));
+
 /**
- * before_main - Print statement within this fxn before running main fxn.
+ * first - print a test before main.
+ *
+ * Return: void
  */
-void __attribute__((constructor)) before_main(void)
+void first(void)
 {
 	printf("You're beat! and yet, you must allow,\n");
 	printf("I bore my house upon my back!\n");
